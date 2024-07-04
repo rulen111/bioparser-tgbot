@@ -1,0 +1,15 @@
+TELEGRAM:
+  API_ID: 
+  API_HASH: 
+  BOT_TOKEN: 
+  WHITELIST:
+    - 1111111111
+  PROXY:
+    addr:
+    port:
+    username:
+    password:
+
+SENTRY:
+  DSN:
+  SAMPLE_RATE: 1.0
